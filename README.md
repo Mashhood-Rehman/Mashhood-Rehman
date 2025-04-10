@@ -1,8 +1,6 @@
 <div align="center">
     <h1 align="center">Hi, I am Mashhood Rehman</h1>
-    <p align="center">
-        Full-stack Developer loves to build cool stuffs.
-    </p>
+    
 </div>
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
