@@ -8,20 +8,3 @@
     </a>
 </div>
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-### :bar_chart: Coding time in the last month
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
